@@ -1,3 +1,4 @@
+![pushbulletoutput](https://user-images.githubusercontent.com/56152599/119226423-a9fccb00-bb26-11eb-934e-19deb4082147.PNG)
 # cowinBookingalert
 
 This is python program to get push notifications when cowin booking is available near you.
@@ -31,4 +32,5 @@ mynearestblock=["Ulhasnagar Municipal Corporation","Ambernath"]
 Open notepad, make .bat file having python.exe location and your .py script location.
 
 Now the remaining part is to make a task in your machine where script can run couple of times in a day. 
+# Notification screen in Pushbullet
 ![notepad bat file](https://user-images.githubusercontent.com/56152599/119224297-66509400-bb1b-11eb-98bb-d367dd727772.PNG)
