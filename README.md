@@ -16,7 +16,8 @@ pip install pushbullet
 Copy the script and edit at:
 </br>
 
-1}.district_id:"your district id from below lists"
+1}.district_id:"your districtid in DistrictidList"
+
 </br>
 2}. get your api key from pushbullet and assign it to API_KEy variable
 </br>
